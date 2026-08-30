@@ -5,5 +5,6 @@ A responsive image showcase and description portal designed for Aspire College. 
 <img width="1352" height="619" alt="Screenshot 2026-08-30 182701" src="https://github.com/user-attachments/assets/d9d623d6-932f-4496-b5b6-3167370cdef8" />
 f" />
 
+Html . Javascript
 
 
