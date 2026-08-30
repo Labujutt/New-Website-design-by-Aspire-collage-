@@ -35,5 +35,3 @@ The full source code for this project is maintained in this repository. Code acc
 **Developed by:** Laiba Amjad  
 **Contact:** fatimamuskan605@gmail.com
 Html . Javascript
-
-
